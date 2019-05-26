@@ -22,6 +22,9 @@
         "type": "git",
         "url": "https://github.com/investira/investira.data.git"
     },
+    "bugs": {
+        "url": "https://github.com/investira/investira.data/issues"
+    },
     "scripts": {},
     "dependencies": {},
     "devDependencies": {},
@@ -56,9 +59,6 @@
         "delay": "0"
     },
     "license": "GPL-3.0-only",
-    "bugs": {
-        "url": "https://github.com/investira/investira.data/sdk/issues"
-    },
     "directories": {
         "lib": "lib"
     }

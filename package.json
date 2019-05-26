@@ -1,0 +1,65 @@
+{
+    "name": "investira.data",
+    "version": "1.0.0",
+    "author": "Investira",
+    "description": "Investira Data",
+    "main": "index.js",
+    "type": "version",
+    "registry": true,
+    "raw": "investira.data@1.0.0",
+    "escapedName": "investira.data",
+    "rawSpec": "1.0.0",
+    "saveSpec": null,
+    "fetchSpec": "1.0.0",
+    "homepage": "https://investira.com.br/",
+    "keywords": [
+        "investira.data"
+    ],
+    "_requiredBy": [
+        "/"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/investira/investira.data.git"
+    },
+    "scripts": {},
+    "dependencies": {},
+    "devDependencies": {},
+    "jshintConfig": {
+        "curly": true,
+        "eqeqeq": false,
+        "latedef": false,
+        "undef": false,
+        "varstmt": true,
+        "funcscope": true,
+        "supernew": true,
+        "boss": true,
+        "eqnull": true,
+        "strict": false,
+        "scripturl": true,
+        "maxdepth": 4,
+        "maxparams": 5,
+        "esversion": 9,
+        "globals": {
+            "esversion": 9,
+            "location": true,
+            "printStackTrace": false
+        },
+        "browser": true,
+        "node": true
+    },
+    "nodemonConfig": {
+        "ignore": [
+            ".git",
+            "node_modules/**/node_modules"
+        ],
+        "delay": "0"
+    },
+    "license": "GPL-3.0-only",
+    "bugs": {
+        "url": "https://github.com/investira/investira.data/sdk/issues"
+    },
+    "directories": {
+        "lib": "lib"
+    }
+}

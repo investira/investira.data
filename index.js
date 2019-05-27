@@ -1,1 +1,1 @@
-exports.holidays = require('./lib/holidays');
+exports.dataHolidays = require('./lib/holidays');

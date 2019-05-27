@@ -1,13 +1,5 @@
 {
+    "locale": "en-US",
     "notBusinessDays": [0, 6],
-    "holidays": [
-        "XXXX-01-01",
-        "XXXX-04-21",
-        "XXXX-05-01",
-        "XXXX-09-07",
-        "XXXX-10-12",
-        "XXXX-11-02",
-        "XXXX-11-15",
-        "XXXX-12-25"
-    ]
+    "holidays": ["XXXX-01-01", "XXXX-07-04", "XXXX-11-11", "XXXX-12-25"]
 }

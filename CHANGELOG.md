@@ -1,1 +1,3 @@
-# 1.0.0
+# 1.0.1
+
+[dictionaries] - Dicionários para correção ortográfica

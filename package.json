@@ -1,16 +1,16 @@
 {
     "name": "investira.data",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "author": "Investira",
     "description": "Investira Data",
     "main": "index.js",
     "type": "version",
     "registry": true,
-    "raw": "investira.data@1.0.1",
+    "raw": "investira.data@1.0.2",
     "escapedName": "investira.data",
-    "rawSpec": "1.0.1",
+    "rawSpec": "1.0.2",
     "saveSpec": null,
-    "fetchSpec": "1.0.1",
+    "fetchSpec": "1.0.2",
     "homepage": "https://investira.com.br/",
     "keywords": [
         "investira.data"

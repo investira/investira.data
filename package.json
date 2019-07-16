@@ -1,26 +1,26 @@
 {
     "name": "investira.data",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "author": "Investira",
     "description": "Investira Data",
     "main": "index.js",
     "type": "version",
     "registry": true,
-    "raw": "investira.data@1.0.2",
+    "raw": "investira.data@1.0.3",
     "escapedName": "investira.data",
-    "rawSpec": "1.0.2",
+    "rawSpec": "1.0.3",
     "saveSpec": null,
-    "fetchSpec": "1.0.2",
+    "fetchSpec": "1.0.3",
     "homepage": "https://investira.com.br/",
     "keywords": [
-        "investira.data"
+        "investira.data",
+        "investira"
     ],
     "_requiredBy": [
         "/"
     ],
     "repository": {
-        "type": "git",
-        "url": "https://github.com/investira/investira.data.git"
+        "url": "git://github.com/investira/investira.data.git"
     },
     "bugs": {
         "url": "https://github.com/investira/investira.data/issues"

@@ -25,3 +25,7 @@
 # 1.0.7
 
 [dictionaries] - Atualização de palavras
+
+# 1.0.8
+
+[dictionaries] - Atualização de palavras

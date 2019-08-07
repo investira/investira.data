@@ -237,6 +237,7 @@
         "Paraiba": "Paraíba",
         "Pao": "Pão",
         "Panaméricano": "Panamericano",
+        "Patrimonio": "Patrimônio",
         "Padrao": "Padrão",
         "Pacifico": "Pacífico",
         "Patria": "Pátria",
@@ -479,6 +480,7 @@
         "Emcotas": "em Cotas",
         "Emcota": "em Cota",
         "Em": "em",
+        "Eirele": "Eireli",
         "Eletrosiderurgica": "Eletrosiderúrgica",
         "Eletronica": "Eletrônica",
         "Eletricos": "Elétricos",
@@ -690,7 +692,8 @@
         "10.0-fundo": "10.0 Fundo",
         "-fdo": "- Fundo",
         "-fdo.De": "Fundo de",
-        "-fundo": "- Fundo"
+        "-fundo": "- Fundo",
+        "-eirele": "- Eireli"
     },
     "phrases": {
         "Tec Juta": "Tecelagem de Juta",

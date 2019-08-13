@@ -519,6 +519,7 @@
         "Ind?Stria": "Indústria",
         "Imoveis": "Imóveis",
         "Imovel": "Imóvel",
+        "Imobiliário-Fii": "Imobiliário",
         "Imoliarios": "Imobiliários",
         "Imobili?Rios": "Imobiliários",
         "Imob": "Imobiliário",
@@ -1084,6 +1085,7 @@
         "Fic fi": "FIC de FI",
         "Fc FIC": "FIC de FI",
         "FC FIC": "FIC de FI",
-        "S A": "S.A."
+        "S A": "S.A.",
+        "FICs": "FIC"
     }
 }

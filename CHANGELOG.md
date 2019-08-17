@@ -33,3 +33,7 @@
 # 1.0.9
 
 [dictionaries] - Atualização de palavras
+
+# 1.0.10
+
+[dictionaries] - Atualização de palavras

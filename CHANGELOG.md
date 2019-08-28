@@ -45,3 +45,5 @@
 # 1.0.12
 
 [dictionaries] - Atualização de palavras
+
+# 1.0.13

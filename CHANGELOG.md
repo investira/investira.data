@@ -63,3 +63,7 @@
 [dictionaries] - Atualização de palavras
 
 # 1.0.17
+
+[dictionaries] - Atualização de palavras
+
+# 1.0.18

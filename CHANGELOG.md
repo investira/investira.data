@@ -67,3 +67,9 @@
 [dictionaries] - Atualização de palavras
 
 # 1.0.18
+
+[dictionaries] - Atualização de palavras
+
+# 1.1.0
+
+[dictionaries] - Implementação do endsWith

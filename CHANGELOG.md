@@ -73,3 +73,5 @@
 # 1.1.0
 
 [dictionaries] - Implementação do endsWith
+
+# 1.1.1

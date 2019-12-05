@@ -75,3 +75,13 @@
 [dictionaries] - Implementação do endsWith
 
 # 1.1.1
+
+[dictionaries] - Atualização de palavras
+
+# 1.1.2
+
+[dictionaries] - Atualização de palavras
+
+# 1.1.3
+
+[dictionaries] - Atualização de palavras

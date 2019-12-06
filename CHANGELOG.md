@@ -85,3 +85,9 @@
 # 1.1.3
 
 [dictionaries] - Atualização de palavras
+
+# 1.1.4
+
+[dictionaries] - Atualização de palavras
+
+# 1.1.5

@@ -91,3 +91,17 @@
 [dictionaries] - Atualização de palavras
 
 # 1.1.5
+
+[dictionaries] - Atualização de palavras
+
+# 1.1.6
+
+[dictionaries] - Atualização de palavras
+
+# 1.1.7
+
+[dictionaries] - Atualização de palavras
+
+# 1.1.8
+
+[dictionaries] - Atualização de palavras

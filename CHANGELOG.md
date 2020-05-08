@@ -105,3 +105,5 @@
 # 1.1.8
 
 [dictionaries] - Atualização de palavras
+
+# 1.1.9

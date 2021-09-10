@@ -117,3 +117,11 @@
 # 1.1.11
 
 [dictionaries] - Atualização de palavras
+
+# 1.1.12
+
+[dictionaries] - Atualização de palavras
+
+# 1.1.13
+
+[dictionaries] - Atualização de palavras

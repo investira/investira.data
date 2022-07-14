@@ -125,3 +125,11 @@
 # 1.1.13
 
 [dictionaries] - Atualização de palavras
+
+# 1.1.14
+
+[holidays] - Feriados a partir de 1979
+
+# 1.1.15
+
+[holidays] - Forçar a atualização de versão

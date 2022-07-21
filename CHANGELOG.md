@@ -133,3 +133,15 @@
 # 1.1.15
 
 [holidays] - Forçar a atualização de versão
+
+# 1.2.0
+
+[holidays] - Inclusão de controle de vigência do feriado
+
+# 1.2.1
+
+[holidays] - Correção do feriado de tiradentes
+
+# 1.2.2
+
+[holidays] - Correção do feriado de tiradentes

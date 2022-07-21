@@ -1,5 +1,10 @@
 {
     "locale": "en-US",
     "notBusinessDays": [0, 6],
-    "holidays": ["XXXX-01-01", "XXXX-07-04", "XXXX-11-11", "XXXX-12-25"]
+    "holidays": [
+        {"since":null, "until":null, "date": "XXXX-01-01"}, 
+        {"since":null, "until":null, "date": "XXXX-07-04"},
+        {"since":null, "until":null, "date": "XXXX-11-11"}, 
+        {"since":null, "until":null, "date": "XXXX-12-25"}
+    ]
 }

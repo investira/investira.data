@@ -145,3 +145,7 @@
 # 1.2.2
 
 [holidays] - Correção do feriado de tiradentes
+
+# 1.3.0
+
+[nodejs] - 18.12

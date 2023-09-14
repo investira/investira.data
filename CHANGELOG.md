@@ -149,3 +149,7 @@
 # 1.3.0
 
 [nodejs] - 18.12
+
+# 1.3.1
+
+[dictionaries] - Atualização de palavras

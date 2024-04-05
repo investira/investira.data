@@ -1,5 +1,18 @@
 {
     "locale": "pt-BR",
+    "common": [
+        "Brasil",
+        "Banco",
+        "da",
+        "de",
+        "do",
+        "Fundo",
+        "Fundos",
+        "Investimento",
+        "Investimentos",
+        "Ltda",
+        "S.A."
+    ],
     "syllables": {
         "Vinicola": "Vinícola",
         "Video": "Vídeo",

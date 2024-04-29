@@ -1,15 +1,55 @@
 {
     "locale": "pt-BR",
-    "notBusinessDays": [0, 6],
+    "notBusinessDays": [
+        0,
+        6
+    ],
     "holidays": [
-        {"since":null, "until":null, "date": "XXXX-01-01"},
-        {"since":null, "until":null, "date": "XXXX-04-21"},
-        {"since":null, "until":null, "date": "XXXX-05-01"},
-        {"since":null, "until":null, "date": "XXXX-09-07"},
-        {"since":null, "until":null, "date": "XXXX-10-12"},
-        {"since":null, "until":null, "date": "XXXX-11-02"},
-        {"since":null, "until":null, "date": "XXXX-11-15"},
-        {"since":null, "until":null, "date": "XXXX-12-25"},
+        {
+            "since": null,
+            "until": null,
+            "date": "XXXX-01-01"
+        },
+        {
+            "since": null,
+            "until": null,
+            "date": "XXXX-04-21"
+        },
+        {
+            "since": null,
+            "until": null,
+            "date": "XXXX-05-01"
+        },
+        {
+            "since": null,
+            "until": null,
+            "date": "XXXX-09-07"
+        },
+        {
+            "since": null,
+            "until": null,
+            "date": "XXXX-10-12"
+        },
+        {
+            "since": null,
+            "until": null,
+            "date": "XXXX-11-02"
+        },
+        {
+            "since": null,
+            "until": null,
+            "date": "XXXX-11-15"
+        },
+        {
+            "since": null,
+            "until": null,
+            "date": "XXXX-12-25"
+        },
+        {
+            "since": "2023",
+            "until": null,
+            "date": "XXXX-11-20"
+        },
         "1979-02-26",
         "1979-02-27",
         "1979-04-12",

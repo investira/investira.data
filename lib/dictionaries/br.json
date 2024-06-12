@@ -1269,11 +1269,14 @@
         "Fundos de In": "FI",
         "F. de Investimento": "FI",
         " S.a": " S.A.",
+        " S.A": " S.A.",
         " S A": " S.A.",
         " S.s": " S.S.",
+        " S.S": " S.S.",
         " S S": " S.S.",
         "Praz": "Prazo",
-        "-": ""
+        "-": "",
+        " .": ""
     },
     "phrases": {
         "Tit. e Val Mob.": "T.V.M.",

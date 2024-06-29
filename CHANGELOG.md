@@ -153,3 +153,7 @@
 # 1.3.1
 
 [dictionaries] - Atualização de palavras
+
+# 1.4.0
+
+[dictionaries] - Feriados

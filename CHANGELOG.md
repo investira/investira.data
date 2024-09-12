@@ -157,3 +157,7 @@
 # 1.4.0
 
 [dictionaries] - Feriados
+
+# 1.5.0
+
+[dictionaries] - Feriados

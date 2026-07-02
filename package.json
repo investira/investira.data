@@ -1,6 +1,6 @@
 {
     "name": "investira.data",
-    "version": "1.5.3",
+    "version": "1.5.4",
     "author": "Investira",
     "description": "Investira Data",
     "main": "index.js",
@@ -28,8 +28,6 @@
     "scripts": {
         "_test": "nodcde ./_tests/test"
     },
-    "dependencies": {},
-    "devDependencies": {},
     "jshintConfig": {
         "curly": true,
         "eqeqeq": false,

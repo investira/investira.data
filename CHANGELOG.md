@@ -1,3 +1,7 @@
+# 1.5.5
+
+[br.json] - Correções de ações
+
 # 1.5.4
 
 [typescript] - Preparação para TypeScript: checagem de tipos via JSDoc e tsconfig, sem migração de código
